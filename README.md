@@ -1,2 +1,2 @@
 ��# SMS
-#Envio y recepcion de SMS por medio SIM900
+��#Envio y recepcion de SMS por medio SIM900
